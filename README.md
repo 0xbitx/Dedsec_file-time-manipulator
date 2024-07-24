@@ -13,17 +13,20 @@
 file-time-manipulator is a linux tool and intuitive command-line tool designed to modify file timestamps, including creation time, modification time, and access time. This tool can be incredibly useful for developers, system administrators, malware developers, and digital forensics experts who need precise control over file metadata.
 
 ### Key Features
-    Change Creation Time:
+    Creation Time:
         Modify the creation timestamp of files to reflect a specific date and time.
 
-    Adjust Modification Time:
+    Modification Time:
         Update the modification timestamp to any desired date and time, providing control over file version history.
 
-    Edit Access Time:
+    Access Time:
         Alter the last accessed timestamp, useful for managing file system metadata and improving system performance.
 
-    Batch Processing:
-        Apply timestamp changes to multiple files at once, saving time and effort.
+<h2 align="center">sample: file access, modify, birth time manipulated</h2>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ea4c92a0-978a-4a08-85e4-6652aed4fd13", width="900", height="900">
+</p>
 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/Dedsec_file-time-manipulator.git
