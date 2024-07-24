@@ -10,7 +10,7 @@
 </p>
 
 ### DESCRIPTION
-file-time-manipulator is a linux tool and intuitive command-line tool designed to modify file timestamps, including creation time, modification time, and access time. This tool can be incredibly useful for developers, system administrators, and digital forensics experts who need precise control over file metadata.
+file-time-manipulator is a linux tool and intuitive command-line tool designed to modify file timestamps, including creation time, modification time, and access time. This tool can be incredibly useful for developers, system administrators, malware developers, and digital forensics experts who need precise control over file metadata.
 
 ### Key Features
     Change Creation Time:
