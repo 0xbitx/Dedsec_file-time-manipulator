@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNtNGNrZ2lucHBma3Vrd20yOHRhdnBnejk1YjU2NnZzN3VzMHoyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDoVTjoLg08QfRsI4Y/giphy.webp", width="400", height="400">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNtNGNrZ2lucHBma3Vrd20yOHRhdnBnejk1YjU2NnZzN3VzMHoyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PDoVTjoLg08QfRsI4Y/giphy.webp", width="300", height="300">
 </p>
 
 <h1 align="center"> file-time-manipulator</h1>
@@ -10,17 +10,7 @@
 </p>
 
 ### DESCRIPTION
-file-time-manipulator is a linux tool and intuitive command-line tool designed to modify file timestamps, including creation time, modification time, and access time. This tool can be incredibly useful for developers, system administrators, malware developers, and digital forensics experts who need precise control over file metadata.
-
-### Key Features
-    Creation Time:
-        Modify the creation timestamp of files to reflect a specific date and time.
-
-    Modification Time:
-        Update the modification timestamp to any desired date and time, providing control over file version history.
-
-    Access Time:
-        Alter the last accessed timestamp, useful for managing file system metadata and improving system performance.
+file-time-manipulator is a linux based command-line tool designed to modify file timestamps, including creation time, modification time, and access time. This tool can be incredibly useful for developers, system administrators, malware developers, and digital forensics experts who need precise control over file metadata.
 
 <h2 align="center">sample: file access, modify, birth time manipulated</h2>
 
@@ -38,3 +28,13 @@ file-time-manipulator is a linux tool and intuitive command-line tool designed t
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
+
+## Support
+
+If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
+
+**Bitcoin Address: `36ALguYpTgFF3RztL4h2uFb3cRMzQALAcm`**
+
+<h1 align="center"> DISCLAIMER </h1>
+
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
